@@ -3,7 +3,7 @@ html, body {
     font-size: 11pt;
     margin: 0;
     width: 60%;
-    min-width: 370px;
+    min-width: 350px;
     height: 100%;
     text-align: justify;
     margin-left: auto;
@@ -12,7 +12,7 @@ html, body {
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 5vw;
     padding-top: 100px;
 }
 
