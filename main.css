@@ -3,6 +3,7 @@ html, body {
     font-size: 11pt;
     margin: 0;
     width: 60%;
+    min-width: 400px;
     height: 100%;
     text-align: justify;
     margin-left: auto;
