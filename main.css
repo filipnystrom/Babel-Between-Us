@@ -38,6 +38,11 @@ blockquote {
     font-style: italic;
 }
 
+body a {
+    color: black;
+    text-decoration: none;
+}
+
 .page-footer {
     float: right;
     font-size: 9pt;
