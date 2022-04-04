@@ -13,8 +13,19 @@ html, body {
 }
 
 h1 {
-    font-size: 5vw;
     padding-top: 100px;
+}
+
+@media screen and (min-width: 400px) {
+    h1 {
+        font-size: 37pt;
+    }
+}
+
+@media screen and (max-width: 399px) {
+    h1 {
+        font-size: 27pt;
+    }
 }
 
 .nav {
