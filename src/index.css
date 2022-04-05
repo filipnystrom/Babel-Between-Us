@@ -32,11 +32,12 @@ h1 {
     overflow: hidden;
     text-align: end;
     float: right;
+    padding-top: 15px;
+    font-size: 11pt;
 }
 
 .nav a {
-    text-align: end;
-    padding: 25px 0px 14px 32px;
+    margin-left: 30px;
 }
 
 blockquote {
