@@ -36,9 +36,7 @@ h1 {
 
 .nav a {
     text-align: end;
-    color: black;
     padding: 25px 0px 14px 32px;
-    text-decoration: none;
 }
 
 blockquote {
@@ -71,8 +69,4 @@ body a {
     max-height: 70px;
     max-width: auto;
     margin: 0 20px;
-}
-
-.page-footer a {
-    text-decoration: none;
 }
